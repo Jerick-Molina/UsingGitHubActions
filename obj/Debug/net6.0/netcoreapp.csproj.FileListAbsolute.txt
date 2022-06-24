@@ -1,0 +1,15 @@
+/home/jerick/Projects/netcoreapp/bin/Debug/net6.0/netcoreapp
+/home/jerick/Projects/netcoreapp/bin/Debug/net6.0/netcoreapp.deps.json
+/home/jerick/Projects/netcoreapp/bin/Debug/net6.0/netcoreapp.runtimeconfig.json
+/home/jerick/Projects/netcoreapp/bin/Debug/net6.0/netcoreapp.dll
+/home/jerick/Projects/netcoreapp/bin/Debug/net6.0/netcoreapp.pdb
+/home/jerick/Projects/netcoreapp/obj/Debug/net6.0/netcoreapp.csproj.AssemblyReference.cache
+/home/jerick/Projects/netcoreapp/obj/Debug/net6.0/netcoreapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jerick/Projects/netcoreapp/obj/Debug/net6.0/netcoreapp.AssemblyInfoInputs.cache
+/home/jerick/Projects/netcoreapp/obj/Debug/net6.0/netcoreapp.AssemblyInfo.cs
+/home/jerick/Projects/netcoreapp/obj/Debug/net6.0/netcoreapp.csproj.CoreCompileInputs.cache
+/home/jerick/Projects/netcoreapp/obj/Debug/net6.0/netcoreapp.dll
+/home/jerick/Projects/netcoreapp/obj/Debug/net6.0/refint/netcoreapp.dll
+/home/jerick/Projects/netcoreapp/obj/Debug/net6.0/netcoreapp.pdb
+/home/jerick/Projects/netcoreapp/obj/Debug/net6.0/netcoreapp.genruntimeconfig.cache
+/home/jerick/Projects/netcoreapp/obj/Debug/net6.0/ref/netcoreapp.dll
